@@ -1,0 +1,49 @@
+body{
+	background-color:white;
+	font-family: helvetica;
+}
+#school{
+	letter-spacing: 1.5em;
+	font-size: 40px;
+
+	font-family:helvetica;
+}
+#code{
+	font-size: 60px;
+	font-weight: bold;
+}
+strong{
+	color: #d31f43;
+	font-size: 65px;
+}
+
+#tab{
+	margin-left: 350px;
+	margin-top: 320px;
+}
+#tab1{
+	margin-left: 350px;
+
+
+
+}
+
+#tab2{
+	/*border-top:  2px solid black;*/
+	margin-left: 400px;
+	width: 15%;
+	
+
+}
+#hr{
+	width: 35%;
+	margin-left: 400px;
+	margin-bottom: -10px;
+
+}
+ #form{
+	color: white;
+	font-size: 65px;
+	background-color: #d31f43;
+	background-size: 500px 100px; 
+}
